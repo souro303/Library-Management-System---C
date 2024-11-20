@@ -1,0 +1,7 @@
+souro - Borrowed: 1001 atomic
+souro - Borrowed: 1003 dbms
+souro - Borrowed: 1001 atomic
+sumonto - Borrowed: 1001 atomic
+sumonto - Borrowed: 1001 atomic
+sumonto - Borrowed: 1003 Python
+sumonto - Borrowed: 1002 7 habit

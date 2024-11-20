@@ -1,0 +1,4 @@
+admin password
+manager password
+user password
+souro password
